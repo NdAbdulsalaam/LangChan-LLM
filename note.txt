@@ -1,0 +1,9 @@
+Coding Environment and Packages
+Before embarking on this course, you need to ensure that you have the appropriate coding environment ready. Please make sure to use a Python version equal to, or later than 3.8.1, which is the minimum requirement to utilize the LangChain library. You can set up your environment by choosing one of the following options:
+
+Having a code editor installed on your computer. A popular coding environment is Visual Studio Code.
+Using Python virtual environments to manage Python libraries.
+Alternatively, you could use Google Colab notebooks.
+You will need the following packages to successfully execute the sample codes provided in each lesson. They can be installed using the pip package manager.
+
+pip install langchain==0.0.208 deeplake openai tiktoken
