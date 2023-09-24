@@ -9,6 +9,7 @@ deeplake = "*"
 openai = "*"
 tiktoken = "*"
 python-dotenv = "*"
+ipykernel = "*"
 
 [dev-packages]
 
