@@ -7,3 +7,4 @@ Alternatively, you could use Google Colab notebooks.
 You will need the following packages to successfully execute the sample codes provided in each lesson. They can be installed using the pip package manager.
 
 pip install langchain==0.0.208 deeplake openai tiktoken
+pip install python-dotenv
