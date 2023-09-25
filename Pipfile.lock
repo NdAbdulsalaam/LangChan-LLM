@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9af195b7c0ee8aa22b09bb7f095353d46cd4d5a9982b72eeb612283b402b8a48"
+            "sha256": "2ab446c02d456a1e5e63c042aad0b6b100861034c7c7f9a00c9c3ee8d7ab8a78"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -354,6 +354,14 @@
             ],
             "version": "==1.2.0"
         },
+        "filelock": {
+            "hashes": [
+                "sha256:08c21d87ded6e2b9da6728c3dff51baf1dcecf973b768ef35bcbc3447edb9ad4",
+                "sha256:2e6f249f1f3654291606e046b09f1fd5eac39b360664c27f5aad072012f8bcbd"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==3.12.4"
+        },
         "frozenlist": {
             "hashes": [
                 "sha256:007df07a6e3eb3e33e9a1fe6a9db7af152bbd8a185f9aaa6ece10a3529e3e1c6",
@@ -420,6 +428,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.4.0"
+        },
+        "fsspec": {
+            "hashes": [
+                "sha256:603dbc52c75b84da501b9b2ec8c11e1f61c25984c4a0dda1f129ef391fbfc9b4",
+                "sha256:80bfb8c70cc27b2178cc62a935ecf242fc6e8c3fb801f9c571fc01b1e715ba7d"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2023.9.2"
         },
         "greenlet": {
             "hashes": [
@@ -490,6 +506,15 @@
             ],
             "markers": "platform_machine == 'aarch64' or (platform_machine == 'ppc64le' or (platform_machine == 'x86_64' or (platform_machine == 'amd64' or (platform_machine == 'AMD64' or (platform_machine == 'win32' or platform_machine == 'WIN32')))))",
             "version": "==2.0.2"
+        },
+        "huggingface-hub": {
+            "hashes": [
+                "sha256:51b0257ff75b422d3cb0662db799c7a03fdc72b8f84a09ce3ff7655dca1958b2",
+                "sha256:fc4a36640b2b51dced0da37a18420572145a0dd528f46715afe6c1f955cc8533"
+            ],
+            "index": "pypi",
+            "markers": "python_full_version >= '3.8.0'",
+            "version": "==0.17.2"
         },
         "humbug": {
             "hashes": [
