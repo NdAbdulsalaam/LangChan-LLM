@@ -11,6 +11,7 @@ tiktoken = "*"
 python-dotenv = "*"
 ipykernel = "*"
 huggingface-hub = "*"
+newspaper3k = "*"
 
 [dev-packages]
 
