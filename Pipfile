@@ -10,6 +10,7 @@ openai = "*"
 tiktoken = "*"
 python-dotenv = "*"
 ipykernel = "*"
+huggingface-hub = "*"
 
 [dev-packages]
 
